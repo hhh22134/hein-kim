@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hein-kim 
+- 👋 Hi, I’m @h
 <!---
 - 👀 I’m interested in learning how to code and engaging in simple coding projects
 - 🌱 I’m currently learning how to use HTML, CSS, and JavaScript - and how to navigate GitHub :)
